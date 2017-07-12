@@ -1,0 +1,24 @@
+{
+  "name": "qejs-express",
+  "version": "1.0.0",
+  "description": "An Express app to learn QEJS templating",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johanswanepoel/express-qejs.git"
+  },
+  "keywords": [
+    "qejs",
+    "express",
+    "javascript"
+  ],
+  "author": "Johan Swanepoel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johanswanepoel/express-qejs/issues"
+  },
+  "homepage": "https://github.com/johanswanepoel/express-qejs#readme"
+}
