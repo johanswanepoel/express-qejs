@@ -23,7 +23,7 @@
   "homepage": "https://github.com/johanswanepoel/express-qejs#readme",
   "dependencies": {
     "consolidate": "^0.14.5",
-    "express": "^4.15.3",
+    "express": "^4.17.3",
     "qejs": "^3.0.5"
   }
 }
